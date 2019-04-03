@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "XYAutoScrollLabel"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "一个文本超出文本框时自动滚动显示 的开源控件"
 
   # This description is used to generate tags and improve search results.
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #
 
   # s.license      = "MIT"
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
